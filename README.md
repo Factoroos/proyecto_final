@@ -43,6 +43,8 @@ Este proyecto es un sistema web de portafolio personal que permite gestionar pro
 ### Herramientas de IA utilizadas:
 
 - **ChatGPT (OpenAI)**  
+enlace historial chatgpt
+**[https://chatgpt.com/share/685aee40-0e50-800d-a465-61bc5cfdd83f](https://chatgpt.com/share/685aee40-0e50-800d-a465-61bc5cfdd83f)**
 - **GitHub Copilot (VSCode)**
 
 ### Aportes de la IA al desarrollo:
